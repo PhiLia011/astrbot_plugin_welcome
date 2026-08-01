@@ -1,0 +1,6 @@
+name: astrbot_plugin_welcome
+desc: 入群欢迎 + 退群通知 + 图片外显文字自定义
+help: 监听群成员增加/减少事件，并强制修改所有图片的外显文字。
+version: v1.0
+author: YourName
+repo: 
