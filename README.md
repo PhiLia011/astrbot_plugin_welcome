@@ -38,19 +38,14 @@ CUSTOM\_SUMMARY = "有问题联系主人：1938649156"  # 所有图片的外显�
 📂 安装方法（桌面版）
 找到数据目录：
 
-Windows：C:\\Users\\你的用户名\\AppData\\Roaming\\AstrBot\\ 或 %USERPROFILE%.astrobot\\
-
+Windows：C:\\Users\\你的用户名\\AppData\\Roaming\\AstrBot\\ 或 C:\Users\用户名\.astrbot\data\plugins
 创建插件文件夹：
 
 在数据目录下新建 plugins 文件夹（若没有）
 
 在 plugins 内新建 astrbot\_plugin\_welcome 文件夹
 
-放入两个文件：
-
-metadata.yaml
-
-main.py
+放入文件
 
 重载插件或重启 AstrBot 桌面版，插件会自动加载
 
